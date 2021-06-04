@@ -70,7 +70,7 @@
         "main": true,
         "title": "理財入門課- 超過100篇學投資文章整理分享- Mr.Market市場先生",
         "meta_descr": "投资理财，投资理财是指投资者通过合理安排资金，运用诸如储蓄、银行理财产品、债券、基金、股票、期货、商品现货、外汇、房地产、保险、黄金、P2P、文化 ...",
-        "header_custom": "",
+        "header_custom": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '317725159788207');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=317725159788207&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->",
         "footer_custom": "",
         "html_before": ""
       },
